@@ -1,1 +1,2 @@
-# Age-Calculator
+# Age Calculator
+This program calculates your age!
